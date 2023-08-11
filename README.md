@@ -20,10 +20,6 @@ it, simply add the following line to your Podfile:
 pod 'XBLogs'
 ```
 
-## Author
-
-327847390@q.com, 327847390@qq.com
-
 ## License
 
 XBLogs is available under the MIT license. See the LICENSE file for more info.
