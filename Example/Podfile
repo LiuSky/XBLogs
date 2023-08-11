@@ -1,0 +1,8 @@
+source 'https://cdn.cocoapods.org'
+use_frameworks!
+
+platform :ios, '10.0'
+
+target 'XBLogs_Example' do
+  pod 'XBLogs', :path => '../'
+end
