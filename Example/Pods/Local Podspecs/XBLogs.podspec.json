@@ -3,7 +3,7 @@
   "version": "0.1.0",
   "summary": "A short description of XBLogs.",
   "description": "TODO: Add long description of the pod here.",
-  "homepage": "https://github.com/327847390@q.com/XBLogs",
+  "homepage": "https://github.com/LiuSky/XBLogs",
   "license": {
     "type": "MIT",
     "file": "LICENSE"
@@ -12,7 +12,7 @@
     "327847390@q.com": "327847390@qq.com"
   },
   "source": {
-    "git": "https://github.com/327847390@q.com/XBLogs.git",
+    "git": "https://github.com/LiuSky/XBLogs.git",
     "tag": "0.1.0"
   },
   "platforms": {
